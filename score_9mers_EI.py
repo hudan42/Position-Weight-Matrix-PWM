@@ -9,7 +9,7 @@
 #    The second part of the program is to generate the position weight matrix and write the 
 #    results in the file: EI_nine_pwm.txt.
 #    The third of the program scores the individual 9-mers and write the result in the
-#    file: EI_nine_output.txt
+#    file: EI_nine_output.txt 
 
 import math
 
